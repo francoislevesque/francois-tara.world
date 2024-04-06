@@ -8,6 +8,8 @@ export default {
     extend: {
       fontFamily: {
         'display': ['"Playfair Display"', 'serif'],
+        'handwriting': ['"Reenie Beanie"', 'cursive'],
+        'serif': ['"Lora"', 'serif'],
       },
     },
   },
