@@ -3,7 +3,7 @@
     <div class="max-w-2xl mx-auto">
       <div class="text-center">
         <h1 class="font-display text-5xl mb-4 text-[#5f795f]">
-          François & Tara
+          Tara & François
         </h1>
 
         <date class="mb-16 block font-serif font-light text-lg text-[#5f795f]">
