@@ -7,7 +7,7 @@
         </h1>
 
         <date class="mb-16 block font-serif font-light text-lg text-[#5f795f]">
-          06.09.2024
+          06.09.2025
         </date>
 
         <a href="https://www.google.com/maps/place/Stonehaven+Le+Manoir/@46.0336151,-74.2990264,15z/data=!4m2!3m1!1s0x0:0x6a3ee8538719e043?sa=X&ved=1t:2428&ictx=111"
