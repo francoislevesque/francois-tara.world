@@ -27,7 +27,7 @@
         <div class="mb-16">
           <a 
             href="https://forms.gle/wsD3GasDUH87QGpKA" 
-            class="bg-[#395539] px-8 py-4 text-white rounded"
+            class="bg-[#395539] px-20 py-4 text-white rounded"
             target="_blank"
             >
             RSVP 
