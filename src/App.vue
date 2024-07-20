@@ -25,7 +25,13 @@
         </a>
 
         <div class="mb-16">
-          <div data-tf-live="01HTTT0TWFTPSS2V6V9FTJV7G6"></div>
+          <a 
+            href="https://forms.gle/wsD3GasDUH87QGpKA" 
+            class="bg-[#395539] px-8 py-4 text-white rounded"
+            target="_blank"
+            >
+            RSVP 
+          </a>
         </div>
 
         <div class="bg-white font-light p-16 space-y-8 mb-16 font-serif">
