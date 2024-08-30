@@ -1,0 +1,78 @@
+{
+  // General
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "files.eol": "\n",
+  "files.associations": {
+    ".ejs": "html",
+    ".env.*": "dotenv",
+    "*.css": "tailwindcss"
+  },
+  // HTML
+  "html.format.enable": false,
+  "[html]": {
+    "editor.formatOnSave": true,
+  },
+  // CSS
+  "css.format.enable": false,
+  "css.validate": false,
+  "[css]": {
+    "editor.formatOnSave": true,
+  },
+  "[postcss]": {
+    "editor.formatOnSave": true,
+  },
+  "[tailwindcss]": {
+    "editor.formatOnSave": true,
+  },
+  "tailwindCSS.emmetCompletions": true,
+  "tailwindCSS.includeLanguages": {
+    "plaintext": "html"
+  },
+  "tailwindCSS.files.exclude": [
+    "**/.git/**",
+    "**/node_modules/**",
+    "**/.hg/**",
+    "**/vendor/**"
+  ],
+  // JS
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "[javascript]": {
+    "editor.formatOnSave": true,
+  },
+  // Vue
+  "[vue]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "Vue.volar"
+  },
+  // JSON
+  "[json]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[jsonc]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[json5]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  // Emmet
+  "emmet.showAbbreviationSuggestions": true,
+  "emmet.showExpandedAbbreviation": "always",
+  // i18n ally
+  "i18n-ally.sortKeys": true,
+  "i18n-ally.keepFulfilled": true,
+  "i18n-ally.keystyle": "nested",
+  "i18n-ally.sourceLanguage": "en",
+  "i18n-ally.localesPaths": [
+    "src/locales"
+  ],
+  "i18n-ally.pathMatcher": "{locale}.{ext}",
+  "i18n-ally.enabledFrameworks": [
+    "vue"
+  ],
+  "vue.codeActions.enabled": false
+}

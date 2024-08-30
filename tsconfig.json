@@ -1,0 +1,47 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "outDir": "dist",
+    "isolatedModules": false,
+    "target": "esnext",
+    "useDefineForClassFields": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "strict": true,
+    "jsx": "preserve",
+    "forceConsistentCasingInFileNames": true,
+    "sourceMap": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/*": [
+        "./resources/*"
+      ],
+      "_modules_/*": [
+        "./modules/*"
+      ],
+      "lib": [
+        "esnext",
+        "dom"
+      ]
+    },
+    "types": [
+      "vite/client",
+      "@intlify/unplugin-vue-i18n/messages"
+    ]
+  },
+  "ts-node": {
+    "compilerOptions": {
+      "module": "CommonJS"
+    }
+  },
+  "include": [
+    "src/**/*.js",
+    "src/**/*.ts",
+    "src/**/*.d.ts",
+    "src/**/*.tsx",
+    "src/**/*.vue",
+    "tailwind.config.js",
+  ],
+}
