@@ -73,8 +73,8 @@
 
     <div class="max-w-7xl mx-auto text-white">
       <div class="relative py-20 px-6">
-        <img src="./assets/Tara-Francois-134-2.jpg" alt="Francois and Tara" class="w-full h-full absolute inset-0 object-cover">
-      <div class="bg-[#2b2f2a] h-full w-full opacity-50 absolute inset-0"></div>
+        <img src="./assets/Tara-Francois-101-3.jpg" alt="Francois and Tara" class="w-full h-full absolute inset-0 object-cover">
+      <div class="bg-black h-full w-full opacity-40 absolute inset-0"></div>
       <div class="relative text-center">
         <p class="mb-10 font-display">
           {{ $t('join_us') }}
