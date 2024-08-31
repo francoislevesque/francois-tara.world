@@ -3,7 +3,7 @@
   <div class="w-full relative overflow-hidden">
 
   
-    <img src="./assets/Tara-Francois-152-2.jpg" alt="Francois and Tara" class="w-full h-full absolute inset-0 object-cover">
+    <img src="./assets/Tara-Francois-37.jpg" alt="Francois and Tara" class="w-full h-full absolute inset-0 object-cover">
 
     <div class="relative pb-20 pt-80">
       <div class="text-center">
@@ -28,7 +28,7 @@
         <div class="flex gap-10 items-center flex-col || sm:flex-row">
 
           <div class="flex-1 order-2 || sm:order-1">
-            <img src="./assets/Tara-Francois-145.jpg" alt="Francois and Tara" class="aspect-square object-cover || sm:aspect-[3/4]">
+            <img src="./assets/Tara-Francois-147.jpg" alt="Francois and Tara" class="aspect-square object-cover || sm:aspect-[3/4]">
           </div>
 
           <div class="flex-1 text-center py-8 order-1 || sm:py-0 sm:order-2">
