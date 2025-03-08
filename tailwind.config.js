@@ -7,9 +7,9 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        'display': ['"Playfair Display"', 'serif'],
+        'display': ['orpheuspro', 'serif'],
         'handwriting': ['"Reenie Beanie"', 'cursive'],
-        'serif': ['"Lora"', 'serif'],
+        'serif': ['adobe-garamond-pro', 'serif'],
       },
     },
   },
