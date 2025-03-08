@@ -41,7 +41,12 @@
     </div>
   </div>
 
-  <Card position="left" src="/Tara-Francois-147.jpg" alt="Francois and Tara">
+  <Card
+    position="left"
+    src="/Tara-Francois-147.jpg"
+    alt="Francois and Tara"
+    class="text-center"
+  >
     <h2 class="font-display font-light text-5xl mb-6">
       {{ $t("ceremony") }}
     </h2>
@@ -67,7 +72,13 @@
     </p>
   </Card>
 
-  <Banner src="/Tara-Francois-101-3.jpg" alt="Francois and Tara">
+  <Callout
+    :to="'/about'"
+    :text="$t('how_it_all_started')"
+    :buttonText="$t('header.about_us')"
+  />
+
+  <Banner src="/Tara-Francois-37.jpg" alt="Francois and Tara">
     <p class="mb-10 text-lg font-display">
       {{ $t("join_us") }}
     </p>
@@ -89,4 +100,5 @@ import Card from "@/components/Card.vue";
 import Rsvp from "@/components/Rsvp.vue";
 import Footer from "@/components/Footer.vue";
 import Banner from "@/components/Banner.vue";
+import Callout from "@/components/Callout.vue";
 </script>

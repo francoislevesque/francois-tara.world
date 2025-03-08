@@ -1,4 +1,6 @@
 {
+  "about_laurentides": "About the Laurentians",
+  "about_stonehaven": "About StoneHaven Le Manoir",
   "about_us_content": "<p>It was a cold Halloween&rsquo;s night when Fran&ccedil;ois and Tara met for the first time.</p>\n<p>The mood was chaotic. The party was set in an old, historic inn decorated with taxidermied animals and sconces which probably infringed local bylaws. The costumes, as per the theme, were masked.&nbsp;</p>\n<p>Fran&ccedil;ois was disguised as a knight, but &hellip; with a mask. Tara dressed as a silent killer: masked hypertension.&nbsp;</p>\n<p>The stage was set for the encounter of two strangers who, as they learned, shared a common appreciation of absurd humour, gin mixed with tonic, and Ms. Britney Jean Spear&rsquo;s masterpiece &ldquo;Toxic&rdquo;.</p>\n<p>Sadly, a global pandemic the likes of which hadn&rsquo;t been seen in the last century struck just four months after this fateful encounter. Could this be the end? Would Tara, who was working in a hospital whose very walls were lined with Covid, give Fran&ccedil;ois a deadly disease?&nbsp;</p>\n<p>Fran&ccedil;ois said he didn&rsquo;t care, and moved in with Tara.</p>\n<p>Both of us became better by leaning into the other. Tara now has a real bike with real clips and can vanquish even Camilien Houde&rsquo;s steep climb (sort of). Fran&ccedil;ois can now speak English (again, sort of). We spend our days working on common projects, whether that be painting small watercolour frogs or trying unsuccessfully to make Hollandaise sauce.&nbsp;</p>\n<p>5 years and countless adventures later, we are so happy to be joined by all our closest friends and family for our marriage.&nbsp;</p>",
   "ceremony": "Ceremony",
   "ceremony_description": "It is possible to reserve a room at Manoir Stonehaven. To book, please call Line Miljour at (819) 774-1991 #5002.",
@@ -13,8 +15,15 @@
     "location": "Location",
     "the_event": "The Event"
   },
+  "how_it_all_started": "How it all started",
+  "in_construction": "In construction, come back later !",
   "join_us": "Join us",
+  "learn_more": "Learn more",
   "location": "Location",
+  "location_1": "We are excited to have our wedding at Manoir StoneHaven, which is where we came for our first couple’s trip outside of Montreal in 2019. It brings back fond memories, like when François ordered a St-Hubert family meal for himself and finished it, much to Tara’s horror. This is when she realized she should probably invest in a Costco membership, or a small farm. ",
+  "location_2": "Manoir StoneHaven is part of châteaux and relais Quebec. Their website boasts a fine dining experience and thermal circuits. There also appears to be a treasure hunt for adults. ",
+  "location_3": "You will be in the beautiful Laurentians, where you can hike and cycle to your heart’s desire. You will be right next to le P’tit train du nord if you would like to cycle. We recommend stopping by “Merci La Vie”, a bakery with delicious financiers. ",
+  "location_4": "For hiking in the Laurentians, we recommend Tremblant National Park and Domaine de la Montagne Noire. For hiking, here are the best hikes in Sainte-Agathe-des-Monts recommended by <a class=\"underline\" href=\"https://www.alltrails.com/fr/explore?mobileMap=true&b_br_lat=45.95837282136023&b_br_lng=-74.04320185621089&b_tl_lat=46.129490829254365&b_tl_lng=-74.51919814379062\">AllTrails</a>.",
   "map": "Map",
   "please_confirm_by_x": "Please confirm by June 1st",
   "we_hope_you_make_it": "We hope you can make it"

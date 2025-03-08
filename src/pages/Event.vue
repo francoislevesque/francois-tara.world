@@ -1,16 +1,29 @@
 <template>
-  <main class="min-h-screen pt-24 px-6 bg-slate-900 text-white">
-    <div class="max-w-4xl mx-auto">
-      <h1 class="text-4xl font-display mb-8">{{ $t('header.the_event') }}</h1>
+  <main>
+    <div class="relative h-96 bg-peppermint text-white">
+      <img
+        src="/Tara-Francois-101-3.jpg"
+        alt="Francois and Tara"
+        class="absolute inset-0 object-cover w-full h-full"
+      />
+      <div class="absolute inset-0 bg-black opacity-40"></div>
+      <div class="relative flex h-full items-center text-left">
+        <div class="max-w-4xl mx-auto w-full">
+          <h1 class="text-5xl font-display text-left">
+            {{ $t("header.the_event") }}.
+          </h1>
+        </div>
+      </div>
+    </div>
+
+    <div class="max-w-4xl mx-auto py-16">
       <div class="space-y-6">
-        <section>
-          <h2 class="text-2xl font-display mb-4">{{ $t('ceremony') }}</h2>
-          <p class="text-lg leading-relaxed">{{ $t('ceremony_description') }}</p>
+        <section class="text-4xl">
+          {{ $t("in_construction") }}
         </section>
       </div>
     </div>
   </main>
 </template>
 
-<script setup>
-</script>
+<script setup></script>

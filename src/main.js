@@ -10,7 +10,6 @@ import en from './locales/en.json'
 import fr from './locales/fr.json'
 
 let locale = navigator.language.split('-')[0] || 'fr';
-locale = 'fr';
 
 const i18n = createI18n({
     locale,

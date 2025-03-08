@@ -7,7 +7,6 @@
         'bg-mint text-peppermint': isTransparent,
         'bg-transparent text-white': !isTransparent,
       }"
-      data-aos="fade"
       aria-label="Global"
     >
       <div class="flex xl:flex-1">

@@ -1,5 +1,5 @@
 <template>
-  <div class="max-w-5xl mx-auto h-full py-16">
+  <div class="max-w-5xl mx-auto h-full my-16">
     <div class="flex bg-white flex-col || md:flex-row">
       <div
         class="min-w-0 bg-peppermint overflow-hidden h-96 order-2 || md:w-1/2 md:h-auto"
@@ -29,7 +29,7 @@
         }"
       >
         <div
-          class="text-peppermint block font-light leading-loose duration-300 text-center max-w-xs mx-auto"
+          class="text-peppermint block font-light leading-loose duration-300 max-w-xs mx-auto"
         >
           <slot></slot>
         </div>
