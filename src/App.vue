@@ -22,6 +22,7 @@ const router = useRouter();
 
 router.beforeEach((to, from, next) => {
   window.scrollTo(0, 0);
+  window.scroll(0, 0);
   AOS.refresh();
   next();
 });
