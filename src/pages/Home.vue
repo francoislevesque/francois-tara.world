@@ -82,8 +82,6 @@
       {{ $t("please_confirm_by_x") }}
     </p>
   </Banner>
-
-  <Footer></Footer>
 </template>
 
 <script setup>
