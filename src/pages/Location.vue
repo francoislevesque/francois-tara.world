@@ -8,7 +8,7 @@
       />
       <div class="absolute inset-0 bg-black opacity-40"></div>
       <div class="relative flex h-full items-center">
-        <div class="max-w-4xl mx-auto w-full">
+        <div class="max-w-4xl mx-auto w-full px-6">
           <h1
             class="text-5xl font-display text-center"
             style="text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2)"

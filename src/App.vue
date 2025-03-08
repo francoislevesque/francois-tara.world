@@ -21,9 +21,8 @@ AOS.init({
 const router = useRouter();
 
 router.beforeEach((to, from, next) => {
-  next();
-  AOS.refresh();
-  // scroll top
   window.scrollTo(0, 0);
+  AOS.refresh();
+  next();
 });
 </script>
