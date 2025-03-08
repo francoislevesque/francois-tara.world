@@ -4,9 +4,19 @@
 </template>
 
 <script setup>
+import Header from "./components/Header.vue";
+import { RouterView, useRouter } from "vue-router";
+import AOS from "aos";
 
-import Header from './components/Header.vue';
-import Rsvp from './components/Rsvp.vue'
-import { RouterView } from 'vue-router'
+AOS.init({
+  easing: "ease-out-cubic",
+  duration: 600,
+});
 
+const router = useRouter();
+
+router.beforeEach((to, from, next) => {
+  next();
+  AOS.refresh();
+});
 </script>
