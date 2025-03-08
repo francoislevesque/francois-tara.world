@@ -3,14 +3,18 @@
   "ceremony_description": "Il est possible de réserver une chambre au Manoir Stonehaven. \nPour réserver, veuillez appeler Line Milijour au (819) 774-1991 #5002.",
   "confirm_your_presence": "Confirmez votre venue",
   "email_us": "Envoyez-nous un courriel",
+  "footer": {
+    "copyright": "Fabriqué avec ❤️ par François Lévesque"
+  },
+  "header": {
+    "about_us": "À propos",
+    "home": "Accueil",
+    "location": "Lieu",
+    "the_event": "Événement"
+  },
   "join_us": "Rejoignez-nous",
   "location": "Emplacement",
   "map": "Carte",
-  "we_hope_you_make_it": "Nous espérons que vous pourrez y assister",
-  "header": {
-    "home": "Accueil",
-    "about_us": "À propos",
-    "the_event": "Événement",
-    "location": "Lieu"
-  }
+  "please_confirm_by_x": "Veuillez confirmer d'ici le 1er juin",
+  "we_hope_you_make_it": "Nous espérons que vous pourrez y assister"
 }

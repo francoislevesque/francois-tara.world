@@ -11,6 +11,10 @@ export default {
         'handwriting': ['"Reenie Beanie"', 'cursive'],
         'serif': ['adobe-garamond-pro', 'serif'],
       },
+      colors: {
+        'mint': '#e5e9e5',
+        'peppermint': '#324232',
+      }
     },
   },
   plugins: [],
