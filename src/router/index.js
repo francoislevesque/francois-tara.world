@@ -6,6 +6,7 @@ import Location from '../pages/Location.vue'
 
 const router = createRouter({
   history: createWebHistory(),
+  scrollBehavior: () => ({ top: 0 }),
   routes: [
     {
       path: '/',
