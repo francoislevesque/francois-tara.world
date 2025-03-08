@@ -29,7 +29,7 @@
         </button>
       </div>
 
-      <div class="hidden xl:flex xl:gap-x-12">
+      <div class="hidden xl:flex xl:gap-x-10">
         <RouterLink
           v-for="item in navigation"
           :key="item.name"
@@ -134,6 +134,7 @@ const navigation = [
   { name: i18n.t("header.about_us"), to: "/about" },
   { name: i18n.t("header.the_event"), to: "/event" },
   { name: i18n.t("header.location"), to: "/location" },
+  { name: i18n.t("header.crossword"), to: "/crossword" },
 ];
 
 const mobileMenuOpen = ref(false);

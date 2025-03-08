@@ -3,6 +3,7 @@ import Home from '../pages/Home.vue'
 import About from '../pages/About.vue'
 import Event from '../pages/Event.vue'
 import Location from '../pages/Location.vue'
+import Crossword from '../pages/Crossword.vue'
 
 const router = createRouter({
   history: createWebHistory(),
@@ -27,6 +28,11 @@ const router = createRouter({
       path: '/location',
       name: 'location',
       component: Location
+    },
+    {
+      path: '/crossword',
+      name: 'crossword',
+      component: Crossword
     }
   ]
 })
