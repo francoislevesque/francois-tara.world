@@ -14,14 +14,14 @@
       <div class="text-center">
         <h1
           data-aos="fade-up"
-          class="font-display text-6xl mb-6 text-white h-16"
+          class="font-display text-6xl mb-6 text-white"
           style="text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1)"
         >
           Tara & François
         </h1>
 
         <div
-          class="mb-12 block font-light tracking-widest text-lg text-white h-10"
+          class="mb-12 block font-light tracking-widest text-lg text-white"
           data-aos="fade-up"
           data-aos-delay="200"
         >
