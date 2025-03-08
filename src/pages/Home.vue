@@ -14,7 +14,8 @@
       <div class="text-center">
         <h1
           data-aos="fade-up"
-          class="font-display text-5xl mb-6 text-white h-16"
+          class="font-display text-6xl mb-6 text-white h-16"
+          style="text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1)"
         >
           Tara & François
         </h1>
@@ -29,21 +30,30 @@
 
         <div data-aos="fade-up" data-aos-delay="400">
           <Rsvp></Rsvp>
+          <p
+            class="mt-2 text-white"
+            style="text-shadow: 0 0 3px rgba(0, 0, 0, 0.4)"
+          >
+            {{ $t("please_confirm_by_x") }}
+          </p>
         </div>
       </div>
     </div>
   </div>
 
-  <Card src="/Tara-Francois-147.jpg" alt="Francois and Tara">
+  <Card position="left" src="/Tara-Francois-147.jpg" alt="Francois and Tara">
     <h2 class="font-display font-light text-5xl mb-6">
       {{ $t("ceremony") }}
     </h2>
 
-    <p class="font-display font-light text-3xl mb-6">15h00</p>
+    <p class="font-display font-light text-3xl mb-10">15h00</p>
 
-    <p>Manoir Stonehaven</p>
-    <p>40 Chem. du Lac des Sables</p>
-    <p>Sainte-Agathe-des-Monts</p>
+    <div class="space-y-2 leading-tight">
+      <p>Manoir Stonehaven</p>
+      <p>40 Chem. du Lac des Sables</p>
+      <p>Sainte-Agathe-des-Monts</p>
+    </div>
+
     <a
       class="underline"
       href="https://www.google.com/maps/place/Stonehaven+Le+Manoir/@46.0336151,-74.2990264,15z/data=!4m2!3m1!1s0x0:0x6a3ee8538719e043?sa=X&ved=1t:2428&ictx=111"
@@ -52,7 +62,7 @@
       {{ $t("map") }}
     </a>
 
-    <p class="leading-snug text-sm mt-12">
+    <p class="leading-snug mt-12">
       {{ $t("ceremony_description") }}
     </p>
   </Card>
