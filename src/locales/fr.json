@@ -2,6 +2,7 @@
   "about_laurentides": "À propos des Laurentides",
   "about_stonehaven": "À propos de Stonehaven Le Manoir",
   "about_us_content": "<p>Ce fut au cours d'une glaciale nuit d'Halloween que le destin réunit pour la première fois François et Tara. </p> <p>L'atmosphère, déjà électrique, s'avéra d'autant plus envoûtante que la fête se tenait dans une antique auberge historique, ornée d'animaux naturalisés et de torchères si extravagantes qu'elles semblaient bravement outrager toute réglementation locale. Selon le thème de la soirée, chacun portait un masque. </p> <p>François, paré d'une armure de chevalier surmontée d'un mystérieux loup, offrait une allure singulière. Tara, quant à elle, s'était glissée dans le rôle d'une tueuse silencieuse, incarnation troublante de l'hypertension masquée. </p> <p>L'univers semblait avoir conspiré pour unir deux âmes jusque-là étrangères, mais partageant un goût identique pour l'humour absurde, l'audacieuse union du gin avec le tonic, et l'inoubliable chef-d'œuvre de Madame Britney Jean Spears, « Toxic ». </p> <p>Hélas, à peine quatre mois plus tard, une pandémie mondiale d'une envergure inédite depuis un siècle fondit sur l'humanité. Serait-ce la fin de ce bonheur naissant ? Tara, qui œuvrait dans un hôpital où la Covid semblait suinter des murs, risquait-elle de transmettre à François un fléau mortel ? </p> <p>François, n'écoutant que son cœur, déclara qu'il s'en moquait et s'installa sous le même toit que Tara. </p> <p>C'est ainsi qu'à force de s'épauler l'un l'autre, ils grandirent ensemble. Tara, désormais juchée sur un vrai vélo doté de cale-pieds, peut presque triompher de la redoutable ascension du mont Camilien-Houde. François, lui, retrouve peu à peu l'usage de la langue de Shakespeare, fut-ce de façon approximative. Leurs journées s'écoulent désormais à la poursuite de projets communs : peindre de frêles grenouilles à l'aquarelle ou tenter – en vain ! – d'élaborer une sauce hollandaise parfaite. </p> <p>Cinq ans et une myriade d'aventures plus tard, c'est avec une joie infinie qu'ils accueillent leurs plus proches amis et toute leur famille pour célébrer leurs noces. </p>",
+  "artist": "Artiste",
   "ceremony": "Cérémonie",
   "ceremony_description": "Il est possible de réserver une chambre au Manoir Stonehaven. \nPour réserver, veuillez appeler Line Milijour au (819) 774-1991 #5002.",
   "confirm_your_presence": "Confirmez votre venue",
@@ -21,6 +22,7 @@
   "in_construction": "Dans la construction, revenez plus tard!",
   "join_us": "Rejoignez-nous",
   "learn_more": "Lire plus",
+  "loading": "",
   "location": "Emplacement",
   "location_1": "C'est avec un enthousiasme sans bornes que nous nous apprêtons à célébrer notre mariage au Manoir StoneHaven, ce même lieu enchanteur qui nous accueillit lors de notre toute première escapade de couple hors de Montréal, en l'an 2019. Ce manoir évoque pour nous de doux souvenirs, dont celui – demeuré légendaire – où François, à la stupéfaction de Tara, engloutit à lui seul un repas familial entier de St-Hubert. C'est à cet instant précis qu'elle comprit la nécessité d'investir dans une carte Costco… ou d'acquérir une petite ferme.",
   "location_2": "Le Manoir StoneHaven fait partie du réseau des châteaux et relais du Québec. Son site web vante les mérites d'une table gastronomique, de circuits thermaux et, semble-t-il, d'une chasse au trésor spécialement conçue pour les adultes en quête d'aventure.",
@@ -32,5 +34,7 @@
     "title": "Suggestions musicales"
   },
   "please_confirm_by_x": "Veuillez confirmer d'ici le 1er juin",
+  "submit": "Soumettre",
+  "title": "Titre",
   "we_hope_you_make_it": "Nous espérons que vous pourrez y assister"
 }

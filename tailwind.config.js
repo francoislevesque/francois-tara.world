@@ -17,7 +17,10 @@ export default {
       colors: {
         'mint': '#e5e9e5',
         'peppermint': '#324232',
-      }
+      },
+      animation: {
+        'spin-fast': 'spin 0.1s linear infinite',
+      },
     },
   },
   plugins: [
