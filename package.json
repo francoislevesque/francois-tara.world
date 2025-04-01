@@ -13,7 +13,6 @@
     "@heroicons/vue": "^2.2.0",
     "@supabase/supabase-js": "^2.49.4",
     "aos": "^2.3.4",
-    "dexie": "^4.0.11",
     "vue": "^3.4.21",
     "vue-router": "^4.5.0"
   },
