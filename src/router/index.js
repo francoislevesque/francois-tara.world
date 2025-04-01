@@ -4,6 +4,7 @@ import About from '../pages/About.vue'
 import Event from '../pages/Event.vue'
 import Location from '../pages/Location.vue'
 import Crossword from '../pages/Crossword.vue'
+import MusicSuggestion from '../pages/MusicSuggestion.vue'
 
 const router = createRouter({
   history: createWebHistory(),
@@ -33,6 +34,11 @@ const router = createRouter({
       path: '/crossword',
       name: 'crossword',
       component: Crossword
+    },
+    {
+      path: '/music-suggestion',
+      name: 'music-suggestion',
+      component: MusicSuggestion
     }
   ]
 })

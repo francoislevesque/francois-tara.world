@@ -7,7 +7,8 @@
   "confirm_your_presence": "Confirm your presence",
   "email_us": "Email Us",
   "footer": {
-    "copyright": "Made with ❤️ by François Lévesque"
+    "copyright": "Made with ❤️ by François Lévesque",
+    "music_suggestion": "Music Suggestion"
   },
   "header": {
     "about_us": "Our story",
@@ -26,6 +27,10 @@
   "location_3": "You will be in the beautiful Laurentians, where you can hike and cycle to your heart’s desire. You will be right next to le P’tit train du nord if you would like to cycle. We recommend stopping by “Merci La Vie”, a bakery with delicious financiers. ",
   "location_4": "For hiking in the Laurentians, we recommend Tremblant National Park and Domaine de la Montagne Noire. For hiking, here are the best hikes in Sainte-Agathe-des-Monts recommended by <a class=\"underline\" href=\"https://www.alltrails.com/fr/explore?mobileMap=true&b_br_lat=45.95837282136023&b_br_lng=-74.04320185621089&b_tl_lat=46.129490829254365&b_tl_lng=-74.51919814379062\">AllTrails</a>.",
   "map": "Map",
+  "music_suggestion": {
+    "content": "Help us get the party moving! Whether it's a timeless classic, a guilty pleasure, or that one track that makes you leap like a caffeinated frog — we want to hear it.",
+    "title": "Music suggestions"
+  },
   "please_confirm_by_x": "Please confirm by June 1st",
   "we_hope_you_make_it": "We hope you can make it"
 }

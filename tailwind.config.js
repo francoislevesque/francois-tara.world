@@ -11,8 +11,8 @@ export default {
     extend: {
       fontFamily: {
         'display': ['orpheuspro', 'serif'],
-        'handwriting': ['"Reenie Beanie"', 'cursive'],
         'serif': ['adobe-garamond-pro', 'serif'],
+        'comic': ['Comic Sans MS', 'cursive'],
       },
       colors: {
         'mint': '#e5e9e5',
