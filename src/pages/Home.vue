@@ -42,6 +42,29 @@
   </div>
 
   <Card
+    position="right"
+    src="/b345eff7.jpg"
+    alt="Francois and Tara"
+    class="text-center"
+  >
+    <h2 class="font-display font-light text-5xl mb-6">
+      {{ $t("book_a_room") }}
+    </h2>
+
+    <p class="leading-snug mt-6" v-html="$t('book_a_room_description')">
+    </p>
+
+    <br>
+
+
+    <div class="space-y-2 leading-tight">
+      <p>Manoir Stonehaven</p>
+      <p>40 Chem. du Lac des Sables</p>
+      <p>Sainte-Agathe-des-Monts</p>
+    </div>
+  </Card>
+
+  <Card
     position="left"
     src="/Tara-Francois-147.jpg"
     alt="Francois and Tara"
@@ -67,9 +90,6 @@
       {{ $t("map") }}
     </a>
 
-    <p class="leading-snug mt-12">
-      {{ $t("ceremony_description") }}
-    </p>
   </Card>
 
   <Callout

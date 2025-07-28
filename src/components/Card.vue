@@ -29,7 +29,7 @@
         }"
       >
         <div
-          class="text-peppermint block font-light leading-loose duration-300 px-6 max-w-xs mx-auto"
+          class="text-peppermint block font-light leading-loose duration-300 px-6 max-w-sm mx-auto"
         >
           <slot></slot>
         </div>

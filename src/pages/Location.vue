@@ -23,6 +23,11 @@
       <p>
         {{ $t("location_1") }}
       </p>
+
+      <hr class="my-10" />
+
+      <p class="leading-snug" v-html="$t('book_a_room_description')">
+    </p>
     </Card>
 
     <Card position="right" src="/relais-chateaux.jpg" alt="Relais Châteaux">
