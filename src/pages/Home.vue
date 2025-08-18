@@ -74,7 +74,7 @@
       {{ $t("ceremony") }}
     </h2>
 
-    <p class="font-display font-light text-3xl mb-10">15h00</p>
+    <p class="font-display font-light text-3xl mb-10">17:00</p>
 
     <div class="space-y-2 leading-tight">
       <p>Manoir Stonehaven</p>
