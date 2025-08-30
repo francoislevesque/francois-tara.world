@@ -8,6 +8,19 @@
   "ceremony": "Cérémonie",
   "confirm_your_presence": "Confirmez votre venue",
   "email_us": "Envoyez-nous un courriel",
+  "event": {
+    "ceremony": "Cérémonie",
+    "checkin": "Arrivée à l'hôtel",
+    "cocktail": "Cocktail",
+    "dinner": "Souper",
+    "dress_code": "Tenue de soirée exigée : robes longues élégantes pour les dames, costumes ou smokings pour les messieurs.",
+    "dress_code_title": "Code vestimentaire",
+    "gifts": "Votre présence à notre mariage est le plus beau des cadeaux, et nous n’en souhaitons pas d’autre. 💕\nSi toutefois vous insistez à offrir quelque chose, une petite contribution sous forme de chèque sera appréciée.",
+    "gifts_title": "Cadeaux",
+    "location": "La cérémonie se déroulera à l’extérieur, derrière le Manoir StoneHaven, afin de profiter du cadre naturel. 🌿\nEn cas de pluie, elle aura lieu à l’intérieur, dans la salle du dernier étage du Manoir.",
+    "location_title": "Emplacement de la cérémonie",
+    "schedule_title": "Horaire"
+  },
   "footer": {
     "copyright": "Fabriqué avec ❤️ par François Lévesque",
     "music_suggestion": "Suggestion de musique"
@@ -37,14 +50,5 @@
   "please_confirm_by_x": "Veuillez confirmer d'ici le 1er juin",
   "submit": "Soumettre",
   "title": "Titre",
-  "we_hope_you_make_it": "Nous espérons que vous pourrez y assister",
-  "event": {
-  "schedule_title": "Horaire",
-  "checkin": "Arrivée à l'hôtel",
-  "ceremony": "Cérémonie",
-  "cocktail": "Cocktail",
-  "dinner": "Souper",
-  "dress_code_title": "Code vestimentaire",
-  "dress_code": "Tenue de soirée exigée : robes longues élégantes pour les dames, costumes ou smokings pour les messieurs."
-  }
+  "we_hope_you_make_it": "Nous espérons que vous pourrez y assister"
 }

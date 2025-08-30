@@ -19,15 +19,24 @@
     <div class="max-w-4xl mx-auto px-6 py-16">
       <div class="space-y-6">
         <section class="text-4xl">
-            <h2 class="text-4xl font-medium font-display mb-4">{{ $t('event.schedule_title') }}</h2>
+            
+          <h2 class="text-4xl font-medium font-display mb-4">{{ $t('event.schedule_title') }}</h2>
             <ul class="text-xl mb-8">
               <li>16:00 – {{ $t('event.checkin') }}</li>
               <li>17:00 – {{ $t('event.ceremony') }}</li>
               <li>18:00 – {{ $t('event.cocktail') }}</li>
               <li>19:30 – {{ $t('event.dinner') }}</li>
             </ul>
+
+            <h2 class="text-4xl font-medium font-display mb-4">{{ $t('event.location_title') }}</h2>
+            <p class="text-xl mb-8">{{ $t('event.location') }}</p>
+
             <h2 class="text-4xl font-medium font-display mb-4">{{ $t('event.dress_code_title') }}</h2>
-            <p class="text-xl">{{ $t('event.dress_code') }}</p>
+            <p class="text-xl mb-8">{{ $t('event.dress_code') }}</p>
+
+            <h2 class="text-4xl font-medium font-display mb-4">{{ $t('event.gifts_title') }}</h2>
+            <p class="text-xl mb-8">{{ $t('event.gifts') }}</p>
+
         </section>
       </div>
     </div>

@@ -8,6 +8,19 @@
   "ceremony": "Ceremony",
   "confirm_your_presence": "Confirm your presence",
   "email_us": "Email Us",
+  "event": {
+    "ceremony": "Ceremony",
+    "checkin": "Hotel check-in",
+    "cocktail": "Cocktail",
+    "dinner": "Dinner",
+    "dress_code": "Evening attire required: elegant long dresses for ladies, suits or tuxedos for gentlemen.",
+    "dress_code_title": "Dress Code",
+    "gifts": "Your presence at our wedding is the greatest gift, and we wish for nothing more. 💕\nHowever, if you still feel the desire to give, a small contribution by cheque would be appreciated.",
+    "gifts_title": "Gifts",
+    "location": "The ceremony will take place outdoors, behind Manoir StoneHaven, to enjoy the natural setting. 🌿\nIn case of rain, it will be held indoors, in the top-floor hall of the Manor.",
+    "location_title": "Ceremony location",
+    "schedule_title": "Schedule"
+  },
   "footer": {
     "copyright": "Made with ❤️ by François Lévesque",
     "music_suggestion": "Music Suggestion"
@@ -37,14 +50,5 @@
   "please_confirm_by_x": "Please confirm by June 1st",
   "submit": "Submit",
   "title": "Title",
-  "we_hope_you_make_it": "We hope you can make it",
-  "event": {
-  "schedule_title": "Schedule",
-  "checkin": "Hotel check-in",
-  "ceremony": "Ceremony",
-  "cocktail": "Cocktail",
-  "dinner": "Dinner",
-  "dress_code_title": "Dress Code",
-  "dress_code": "Evening attire required: elegant long dresses for ladies, suits or tuxedos for gentlemen."
-  }
+  "we_hope_you_make_it": "We hope you can make it"
 }
